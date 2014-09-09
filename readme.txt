@@ -29,6 +29,6 @@ For basic usage, you can also have a look at the plugin homepage.
 
 == Screenshots ==
 
-1. Fare calculator.(png|jpg|jpeg|gif). `/farcalculator/fare.png` would win over `/images/preview.png` 
+1. Fare calculator.(png|jpg|jpeg|gif). `/farcalculator/fare.png` would win over `/screenshot.png` 
 (or jpg, jpeg, gif).
 
