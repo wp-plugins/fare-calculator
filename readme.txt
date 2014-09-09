@@ -29,6 +29,10 @@ For basic usage, you can also have a look at the plugin homepage.
 
 == Screenshots ==
 
-1. Fare calculator.(png|jpg|jpeg|gif). `/farcalculator/fare.png` would win over `/screenshot.png` 
+
+1. This screen shot description corresponds to screenshot.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets 
+directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png` 
 (or jpg, jpeg, gif).
+2. This is the second screen shot
 
