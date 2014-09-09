@@ -1,5 +1,5 @@
 === Fare Calculator ===
-Contributors: (GOPI KRISHNAN)
+Contributors: GOPI KRISHNAN
 Donate link: http://staunchire.com/
 Tags: fare, calculator,googlemap,
 Requires at least: 3.6
