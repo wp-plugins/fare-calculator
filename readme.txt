@@ -29,4 +29,4 @@ For basic usage, you can also have a look at the plugin homepage.
 
 == Screenshots ==
 
-1.screenshot. png|jgg|jpeg
+screenshot.png|jgg|jpeg
