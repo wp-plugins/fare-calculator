@@ -16,6 +16,7 @@ Fare calculator can manage the fare amount between the distance points A and B. 
 In Admin panel goto fare settings on admin menu, then enter the lat and long for the map area to display
 and enter the service and its price to calculate, After finishing save the data, the data which saved can be preview below table on fare settings.
 --Enjoy--
+Copy the shorcode into pages or posts: [fc_fare] 
 
 
 == Installation ==
@@ -29,4 +30,5 @@ For basic usage, you can also have a look at the plugin homepage.
 
 == Screenshots ==
 
-screenshot.png|jgg|jpeg
+1.screenshot.png
+2.admin-settings.png
