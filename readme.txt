@@ -17,6 +17,7 @@ In Admin panel goto fare settings on admin menu, then enter the lat and long for
 and enter the service and its price to calculate, After finishing save the data, the data which saved can be preview below table on fare settings.
 --Enjoy--
 Copy the shorcode into pages or posts: [fc_fare] 
+<a href=''>screenshot1</a>
 
 
 == Installation ==
