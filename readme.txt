@@ -18,7 +18,9 @@ and enter the service and its price to calculate, After finishing save the data,
 --Enjoy--
 Copy the shorcode into pages or posts: [fc_fare] 
 <a href="http://i61.tinypic.com/2cfazjb.jpg" target="_blank">Screenshot1</a>
-
+<a href="http://tinypic.com?ref=15xu4ph" target="_blank">Screenshot2</a>
+<a href="http://tinypic.com?ref=2a966f4" target="_blank">Screenshot3</a>
+<a href="http://tinypic.com?ref=t4vbyw" target="_blank">Screnshot4</a>
 
 
 == Installation ==
