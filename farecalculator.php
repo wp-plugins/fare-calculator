@@ -246,7 +246,7 @@ function fc_displayservice(){ ?>
 
 
 /************** map interface *****************/
-function fc_mapui(){?>
+function fc_fare(){?>
 <style type="text/css">html{height:100%}body{height:100%;margin:0px;padding:0px;font-family:tahoma;font-size:8pt}#total{font-size:large;text-align:center;font-family:arial;color:green;margin:5px 0 10px 0;font-size:14px;width:374px}input{margin:5px 0px;font-family:tahoma;font-size:8pt}</style>
 <head><script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&libraries=places"></script>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
