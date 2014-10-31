@@ -17,7 +17,7 @@ In Admin panel goto fare settings on admin menu, then enter the lat and long for
 and enter the service and its price to calculate, After finishing save the data, the data which saved can be preview below table on fare settings.
 --Enjoy--
 Copy the shorcode into pages or posts: [fc_fare] 
-<a href=''>screenshot1</a>
+<a href="http://tinypic.com?ref=2ewjwjp" target="_blank"><img src="http://i58.tinypic.com/2ewjwjp.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
 == Installation ==
@@ -32,4 +32,3 @@ For basic usage, you can also have a look at the plugin homepage.
 == Screenshots ==
 
 1. Here's a screenshot of it in action
-<a href=''>screenshot1</a>
