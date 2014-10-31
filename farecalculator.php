@@ -3,7 +3,7 @@
 Plugin Name: farecalculator
 Plugin URI: http://staunchire.com
 Description: Easy way to calculate the fare price on taxi or any service, with the help of google map with auto suggestion place , this is the plugin you need. 
-Version: 1.0
+Version: 1.1
 Author: Gopi krishnan, MoB: +91 8122335200, Email: krishna25auro@gmail.com
 Author URI: https://www.facebook.com/badchetah
 License: GPL2

@@ -2,9 +2,9 @@
 Contributors: GOPI KRISHNAN
 Author: http://staunchire.com/
 Tags: fare, calculator,googlemap,
-Requires at least: 3.6
-Tested up to: 3.9.2
-Stable tag: 1.0
+Requires at least: 4.0
+Tested up to: 4.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,3 +31,4 @@ For basic usage, you can also have a look at the plugin homepage.
 == Screenshots ==
 
 1. Here's a screenshot of it in action
+<a href=''>screenshot1</a>
