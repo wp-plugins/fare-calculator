@@ -18,6 +18,7 @@ and enter the service and its price to calculate, After finishing save the data,
 --Enjoy--
 Copy the shorcode into pages or posts: [fc_fare] 
 <a href="http://tinypic.com?ref=2ewjwjp" target="_blank"><img src="http://i58.tinypic.com/2ewjwjp.png" border="0" alt="Image and video hosting by TinyPic"></a>
+[IMG]http://i58.tinypic.com/2ewjwjp.png[/IMG]
 
 
 == Installation ==
