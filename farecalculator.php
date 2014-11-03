@@ -538,7 +538,7 @@ echo "<table><th>Id</th>
 
 function fc_settings(){ ?>
 <div><h2>Welcome Admin</h2>
-<h3>Shortcode To Display Taxi fare calculator &nbsp;&nbsp;&nbsp; ['fc_fare']</h3></br>
+<h3>Shortcode To Display Taxi fare calculator &nbsp;&nbsp;&nbsp; [fc_fare]</h3></br>
 <h3>For payment Options through paypal Contact Me:</h3>
 <p>Krish </br>
 Email: krishna25auro@gmail.com </p>
@@ -548,7 +548,7 @@ Email: krishna25auro@gmail.com </p>
 <?php }
 
 
-add_shortcode('fc_fare', 'fc_mapui');
+add_shortcode('fc_fare', 'fc_fare');
 //add_shortcode('fc_booktaxi', 'fc_booktaxi');
 
 
